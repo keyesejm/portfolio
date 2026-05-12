@@ -1,4 +1,4 @@
-import { getBlogPost } from "@/lib/blog";
+import { getBlogPost } from "@/data/blog";
 
 interface Props {
   params: Promise<{
